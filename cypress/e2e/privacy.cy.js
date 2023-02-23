@@ -10,7 +10,6 @@ Cypress._.times(5, function() {
     }) 
 })
 
-
 it('testa o titulo da politica de privacidade', function() {
 
     cy.title()
